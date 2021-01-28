@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "parse": "node parse.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "glob": "^7.1.0",
+    "neat-csv": "^5.2.0",
+    "node-fetch": "^2.6.1",
+    "underscore": "^1.8.3",
+    "xlsx": "^0.8.0"
+  }
+}
