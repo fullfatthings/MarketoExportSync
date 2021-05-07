@@ -12,7 +12,7 @@
     "glob": "^7.1.0",
     "neat-csv": "^5.2.0",
     "node-fetch": "^2.6.1",
-    "underscore": "^1.8.3",
+    "underscore": "^1.12.1",
     "xlsx": "^0.8.0"
   }
 }
